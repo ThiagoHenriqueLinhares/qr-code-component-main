@@ -1,0 +1,28 @@
+* {
+ margin: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+
+main {
+    box-shadow: 15px hsla(219, 15%, 55%, 0.692);
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 770px;
+    position: relative;
+    left: 5%;
+    bottom: 5%;
+}
+
+img {
+    position: relative;
+    border-radius: 15px;
+    padding: 15px;
+    left: 5%;
+}
